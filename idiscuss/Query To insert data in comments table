@@ -1,1 +1,0 @@
-INSERT INTO `comments` (`comment_id`, `comment_thread_id`, `comment_description`, `comment_user_id`, `time`) VALUES ('1', '1', 'I am also facing this problem if anyone know solution for this Please Contact me.', '1', current_timestamp());
