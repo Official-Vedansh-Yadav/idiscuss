@@ -1,0 +1,1 @@
+INSERT INTO `threads` (`thread_id`, `thread_user_id`, `thread_description`, `thread_cat_id`, `time`) VALUES ('1', '1', 'I am unable to install Python 3.9.6 in my Windows 11.', '1', current_timestamp());
